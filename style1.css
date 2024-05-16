@@ -34,7 +34,7 @@
         }
         .container {
             grid-template-areas:
-                'navbar navbar navbar navbar'
+                'navbar navbar navbar '
                 'section section section section'
                 'aside aside aside aside'
                 'footer footer footer footer ';
